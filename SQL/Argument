@@ -1,0 +1,1 @@
+Note : les tables "fournis" et "produit" doivent être importées en premier puisqu'elles ne dépendent pas des autres tables. A l'inverse, les autres tables ne peuvent pas être importées en premier puisqu'elles dépendent de "fournis" ou de "produit".

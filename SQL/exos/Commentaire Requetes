@@ -1,0 +1,4 @@
+// Joindre les tables employés et départements avec la méthode Join
+SELECT      *
+FROM        Employes
+JOIN        Departements ON Employes.emp_dep = Departements.dep_id;
